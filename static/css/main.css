@@ -185,7 +185,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #3e3a47 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -554,6 +554,8 @@
 				position: relative;
 				top: 0;
 				width: 5.35em;
+				margin-right: 5px;
+				margin-left: 5px;
 			}
 
 				#header nav li:nth-child(1) {
